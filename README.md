@@ -2,10 +2,10 @@
 
 
 - 🔭 I’m currently working on data analysis projects 
-- 🌱 I’m currently learning Tableau
+- 🌱 I’m currently learning Python for Data Science
 - 👯 I’m looking to collaborate on any data analysis project
 - 🤔 I’m looking for a data analyst position
-- 💬 Ask me about Excel, PowerBI & SQL
+- 💬 Ask me about Excel, PowerBI, Tableau & SQL
 
 ### Stack
 
